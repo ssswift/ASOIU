@@ -8,3 +8,6 @@
 
 ДЗ1:
 https://github.com/ssswift/GAPANUK-HW1
+
+ДЗ2:
+https://github.com/ssswift/GAPANUK-HW2
